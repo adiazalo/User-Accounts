@@ -10,4 +10,4 @@ cd user-accounts
 meteor
 ```
 
-Open up http://localhost:3000 and see this.
+Open up in http://localhost:3000
