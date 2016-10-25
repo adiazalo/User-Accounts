@@ -29,4 +29,4 @@ accounts-base
 accounts-password
 useraccounts:unstyled
 raix:handlebar-helpers
-aldeed:Template-extension #Allows us to override blaze templates
+aldeed:template-extension #Allows us to override blaze templates
