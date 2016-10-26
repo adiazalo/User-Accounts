@@ -3,6 +3,6 @@ Template.MainNav.events({
     Session.set('nav-toggle','open'); //setting nav-toggle to be open
   },
   'click .logout': ()=> {
-    Meteor.logout();
+    AccountsTemplates.logout();
   }
 });
